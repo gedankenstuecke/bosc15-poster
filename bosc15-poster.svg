@@ -860,8 +860,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.41003787"
-     inkscape:cx="1836.5457"
-     inkscape:cy="1408.0791"
+     inkscape:cx="1734.1161"
+     inkscape:cy="2586.019"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -2948,16 +2948,11 @@
          sodipodi:role="line"
          x="138.70868"
          y="-2490.876"
-         style="font-size:32px"
-         id="tspan6891">²Applied Bioinformatics Group, School of Agriculture and Food Sciences, University of Queensland, </tspan><tspan
+         id="tspan3157"
+         style="font-size:32px">²Applied Bioinformatics Group, School of Agriculture and Food Sciences, University of Queensland, Oz</tspan><tspan
          sodipodi:role="line"
          x="138.70868"
          y="-2450.876"
-         id="tspan3157"
-         style="font-size:32px" /><tspan
-         sodipodi:role="line"
-         x="138.70868"
-         y="-2410.876"
          id="tspan3149" /></text>
     <text
        xml:space="preserve"
@@ -3114,7 +3109,7 @@
    style="font-style:italic"
    id="flowSpan7042">JSON</flowSpan>-API, the <flowSpan
    style="font-style:italic"
-   id="flowSpan7040">Distributed Annotation System</flowSpan> (DAS) [7] and also works as a Beacon for the <flowSpan
+   id="flowSpan7040">Distributed Annotation System</flowSpan> (DAS) [7] and it also works as a Beacon for the <flowSpan
    style="font-style:italic"
    id="flowSpan7038">Global Alliance for Genomics and Health</flowSpan>.</flowPara></flowRoot>    <text
        xml:space="preserve"
