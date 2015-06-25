@@ -860,8 +860,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.41003787"
-     inkscape:cx="1734.1161"
-     inkscape:cy="2586.019"
+     inkscape:cx="1850.0825"
+     inkscape:cy="1701.7287"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -888,6 +888,10 @@
        orientation="1,0"
        position="2888.3716,1813.6287"
        id="guide7340" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="886.38858,3602.4625"
+       id="guide18004" />
   </sodipodi:namedview>
   <metadata
      id="metadata7">
@@ -907,7 +911,7 @@
      transform="translate(0,3160.6299)">
     <g
        id="surface1"
-       transform="matrix(1.0740748,0,0,1.0740748,1617.7171,-1020.5498)">
+       transform="matrix(1.0740748,0,0,1.0740748,1617.7171,-1080.5498)">
       <rect
          id="rect4565"
          style="fill:#ffffff;fill-opacity:1;stroke:none"
@@ -1677,7 +1681,7 @@
     </g>
     <g
        id="surface54"
-       transform="matrix(1.0838345,0,0,1.0838345,2212.9942,-1026.0949)">
+       transform="matrix(1.0838345,0,0,1.0838345,2212.9942,-1086.0949)">
       <rect
          id="rect6292"
          style="fill:#ffffff;fill-opacity:1;stroke:none"
@@ -2937,22 +2941,22 @@
        xml:space="preserve"
        style="font-size:39.48847961px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        x="138.70868"
-       y="-2530.876"
+       y="-2452.876"
        id="text3145"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          x="138.70868"
-         y="-2530.876"
+         y="-2452.876"
          style="font-size:32px"
          id="tspan6887">¹Department of Applied Bioinformatics Goethe University Frankfurt/Main, Germany </tspan><tspan
          sodipodi:role="line"
          x="138.70868"
-         y="-2490.876"
+         y="-2412.876"
          id="tspan3157"
          style="font-size:32px">²Applied Bioinformatics Group, School of Agriculture and Food Sciences, University of Queensland, Oz</tspan><tspan
          sodipodi:role="line"
          x="138.70868"
-         y="-2450.876"
+         y="-2372.876"
          id="tspan3149" /></text>
     <text
        xml:space="preserve"
@@ -3111,7 +3115,7 @@
    style="font-style:italic"
    id="flowSpan7040">Distributed Annotation System</flowSpan> (DAS) [7] and it also works as a Beacon for the <flowSpan
    style="font-style:italic"
-   id="flowSpan7038">Global Alliance for Genomics and Health</flowSpan>.</flowPara></flowRoot>    <text
+   id="flowSpan7038">Global Alliance for Genomics and Health </flowSpan>[8].</flowPara></flowRoot>    <text
        xml:space="preserve"
        style="font-size:90px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        x="1536.7006"
@@ -3137,47 +3141,47 @@
          sodipodi:role="line"
          id="tspan3960"
          x="1512.7006"
-         y="-1053.1647">Usage &amp; Outlook</tspan></text>
+         y="-1053.1647">Usage</tspan></text>
     <image
        y="-1083.2201"
-       x="2292.0547"
+       x="1831.1217"
        id="image3981"
        xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAi8AAAAJCAYAAAD6vsxGAAAABHNCSVQICAgIfAhkiAAAAHtJREFU eJzt1rENglAUQNEP0YKKxgWo6ElYjpHYCHYgWEPwO4ExVt+XnDPBLW/1nOd8bVsCAPh3zTge1dr3 +ViW0i0AAF89pulVl44AAPiFeQEAQjEvAEAo5gUACMW8AAChmBcAIJRbMwzp2veUzrN0CwDAR3Xb pnvX5TcpWRUXLR7KxgAAAABJRU5ErkJggg== "
        height="9"
-       width="599.3028" />
+       width="1060.2358" />
     <text
        xml:space="preserve"
        style="font-size:90px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        x="1695.272"
-       y="-875.93481"
+       y="-935.93481"
        id="text6989"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan6991"
          x="1695.272"
-         y="-875.93481">A</tspan></text>
+         y="-935.93481">A</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:90px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        x="2283.8286"
-       y="-874.82172"
+       y="-934.82172"
        id="text6993"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan6995"
          x="2283.8286"
-         y="-874.82172">B</tspan></text>
+         y="-934.82172">B</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:90px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        x="1512.7006"
-       y="-458.35895"
+       y="-518.35895"
        id="text6997"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan6999"
          x="1512.7006"
-         y="-458.35895"
+         y="-518.35895"
          style="font-size:36px"><tspan
    style="font-weight:bold"
    id="tspan7011">Figure 4</tspan> Growth of <tspan
@@ -3189,7 +3193,7 @@
    id="tspan7182">B</tspan> shows</tspan><tspan
          sodipodi:role="line"
          x="1512.7006"
-         y="-413.35895"
+         y="-473.35895"
          style="font-size:36px;font-style:normal"
          id="tspan7003">the number of phenotypes &amp; variations <tspan
    style="font-weight:bold"
@@ -3219,16 +3223,16 @@
        xml:space="preserve"
        style="font-size:90px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        x="1512.7006"
-       y="578.60687"
+       y="398.60687"
        id="text7314"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan7316"
          x="1512.7006"
-         y="578.60687"
+         y="398.60687"
          style="fill:#d40000">References</tspan></text>
     <image
-       y="548.28857"
+       y="368.28857"
        x="2044.5647"
        id="image7337"
        xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAi8AAAAJCAYAAAD6vsxGAAAABHNCSVQICAgIfAhkiAAAAHtJREFU eJzt1rENglAUQNEP0YKKxgWo6ElYjpHYCHYgWEPwO4ExVt+XnDPBLW/1nOd8bVsCAPh3zTge1dr3 +ViW0i0AAF89pulVl44AAPiFeQEAQjEvAEAo5gUACMW8AAChmBcAIJRbMwzp2veUzrN0CwDAR3Xb pnvX5TcpWRUXLR7KxgAAAABJRU5ErkJggg== "
@@ -3236,51 +3240,71 @@
        width="843.80688" />
     <text
        xml:space="preserve"
-       style="font-size:35.85998154px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       style="font-size:35.85998154px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans"
        x="1512.7006"
-       y="628.26062"
+       y="446.26062"
        id="text7356"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          x="1512.7006"
-         y="628.26062"
+         y="446.26062"
          id="tspan7366"
-         style="font-size:24px">[1] http://blog.23andme.com/news/one-in-a-million/</tspan><tspan
+         style="font-size:24px;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate">[1] http://blog.23andme.com/news/one-in-a-million/</tspan><tspan
          sodipodi:role="line"
          x="1512.7006"
-         y="658.26062"
+         y="476.26062"
          id="tspan7360"
-         style="font-size:24px">[2] https://www.23andme.com/exome/</tspan><tspan
+         style="font-size:24px;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate">[2] https://www.23andme.com/exome/</tspan><tspan
          sodipodi:role="line"
          x="1512.7006"
-         y="688.26062"
+         y="506.26062"
          id="tspan7362"
-         style="font-size:24px">[3] http://www.fitbit.com</tspan><tspan
+         style="font-size:24px;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate">[3] http://www.fitbit.com</tspan><tspan
          sodipodi:role="line"
          x="1512.7006"
-         y="718.26062"
-         style="font-size:24px"
+         y="536.26062"
+         style="font-size:24px;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
          id="tspan7074">[4] Cariaso M and Lennon G. (2012) Nucl. Acids Res. 40 (D1): D1308-D1312 </tspan><tspan
          sodipodi:role="line"
          x="1512.7006"
-         y="748.26062"
+         y="566.26062"
          id="tspan7054"
-         style="font-size:24px">[5] Welter D, MacArthur J, Morales J et al. (2014) Nucl. Acids Res V42 (Database issue): D1001-D1006</tspan><tspan
+         style="font-size:24px;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate">[5] Welter D, MacArthur J, Morales J et al. (2014) Nucl. Acids Res V42: D1001-D1006</tspan><tspan
          sodipodi:role="line"
          x="1512.7006"
-         y="778.26062"
-         style="font-size:24px"
+         y="596.26062"
+         style="font-size:24px;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
          id="tspan7094">[6] Ball MP, Thakuria JV, Zaranek AW, et al. (2012) PNAS 109: 11920- 11927.</tspan><tspan
          sodipodi:role="line"
          x="1512.7006"
-         y="808.26062"
+         y="626.26062"
          id="tspan7374"
-         style="font-size:24px">[7] Dowell R, Jokerst R, Day A et al. (2001) BMC Bioinformatics 2: 7.</tspan><tspan
+         style="font-size:24px;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate">[7] Dowell R, Jokerst R, Day A et al. (2001) BMC Bioinformatics 2: 7.</tspan><tspan
          sodipodi:role="line"
          x="1512.7006"
-         y="838.26062"
-         style="font-size:24px"
-         id="tspan7058">[8] http://genomicsandhealth.org/</tspan></text>
+         y="656.26062"
+         style="font-size:24px;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="tspan7058">[8] http://genomicsandhealth.org/</tspan><tspan
+         sodipodi:role="line"
+         x="1512.7006"
+         y="686.26062"
+         style="font-size:24px;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="tspan17992">[9] Humbert M, Huguenin K, Hugonot J, Ayday E, Hubaux J. (2015) </tspan><tspan
+         sodipodi:role="line"
+         x="1512.7006"
+         y="716.26062"
+         style="font-size:24px;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="tspan17998">15th Privacy Enhancing Technologies Symposium  </tspan><tspan
+         sodipodi:role="line"
+         x="1512.7006"
+         y="746.26062"
+         style="font-size:24px;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="tspan17990">[10] https://www.coursera.org/course/usefulgenetics</tspan><tspan
+         sodipodi:role="line"
+         x="1512.7006"
+         y="776.26062"
+         style="font-size:24px;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="tspan17996">[11] https://soundcloud.com/thesoundofpeople/</tspan></text>
     <g
        id="g17724"
        transform="matrix(1.8331791,0,0,1.8331791,1534.2982,3551.4467)">
@@ -14969,13 +14993,12 @@ Xr9tCQAqqFtRV/4/q8xCiT3/uUAAAAAASUVORK5CYII=
        width="118.96343"
        transform="matrix(0,-1,1,0,0,0)" />
     <rect
-       style="fill:none;fill-opacity:0.13333333000000000"
+       style="fill:none"
        id="rect7162"
        width="1321.8015"
        height="869.68976"
        x="1507.2054"
-       y="2779.9399"
-       transform="translate(0,-3160.6299)"
+       y="-440.68997"
        rx="1.555797"
        ry="0.26834068" />
     <flowRoot
@@ -14989,12 +15012,78 @@ Xr9tCQAqqFtRV/4/q8xCiT3/uUAAAAAASUVORK5CYII=
            id="use7168"
            width="2979.9211"
            height="4212.9922" /></flowRegion><flowPara
-         id="flowPara7170"
-         style="font-size:42px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans">Between the start of openSNP on 27.09.2011 and 19.06.2015 3841 people have signed up for an account. In total 1984 genetic data sets have been uploaded by the users. Those users also have provided a total of 4743 entries on 360 different phenotypes, which range from hair- and eye-colour to political beliefs. </flowPara><flowPara
+         style="font-size:42px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans"
+         id="flowPara17978">Between the start of openSNP on 27.09.2011 and 19.06.2015 3841 people have signed up for an account. In total 1984 genetic data sets have been uploaded by the users. Those users also have provided a total of 4743 entries on 360 different phenotypes, which range from hair- and eye-colour to political beliefs. Amongst other things, the data from openSNP have been used to research genomic privacy [9], teach students using real world data [10] and even to create art [11]. </flowPara><flowPara
          style="font-size:42px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans"
          id="flowPara7172" /><flowPara
          style="font-size:42px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:justify;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans"
-         id="flowPara7174">The application can be found at https://opensnp.org and the code is released under MIT License. All data uploaded to openSNP is released under Creative Commons Zero, which is equivalent to the Public Domain in many countries. </flowPara><flowPara
-         style="font-size:42px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans"
-         id="flowPara7188" /></flowRoot>  </g>
+         id="flowPara7188">The application can be found at https://opensnp.org and the code is released under MIT License. All data uploaded is dedicated into the Public Domain using Creative Commons Zero.</flowPara></flowRoot>    <text
+       xml:space="preserve"
+       style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Gill Sans;-inkscape-font-specification:Gill Sans"
+       x="147.00015"
+       y="-2525.7534"
+       id="text18000"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan18002"
+         x="147.00015"
+         y="-2525.7534"
+         style="fill:#808080">@gedankenstuecke</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Gill Sans;-inkscape-font-specification:Gill Sans"
+       x="845.05273"
+       y="-2526.1001"
+       id="text18000-7"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan18002-9"
+         x="845.05273"
+         y="-2526.1001"
+         style="fill:#808080">@PhilippBayer</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Gill Sans;-inkscape-font-specification:Gill Sans"
+       x="1395.5481"
+       y="-2524.1001"
+       id="text18000-7-5"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan18002-9-8"
+         x="1395.5481"
+         y="-2524.1001"
+         style="fill:#808080">@helgerausch</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Gill Sans;-inkscape-font-specification:Gill Sans"
+       x="1924.3998"
+       y="-2525.6104"
+       id="text18048"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan18050"
+         x="1924.3998"
+         y="-2525.6104"
+         style="fill:#808080">@senficon</tspan></text>
+    <rect
+       style="color:#000000;fill:#808080;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect18052"
+       width="414.59586"
+       height="385.33026"
+       x="2502.2078"
+       y="628.01123"
+       rx="1.555797"
+       ry="0.26834068" />
+    <text
+       xml:space="preserve"
+       style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Gill Sans;-inkscape-font-specification:Gill Sans"
+       x="2599.7598"
+       y="835.11505"
+       id="text18054"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan18056"
+         x="2599.7598"
+         y="835.11505">QR GOES HERE</tspan></text>
+  </g>
 </svg>
