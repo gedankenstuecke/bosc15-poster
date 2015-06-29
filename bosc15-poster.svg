@@ -875,9 +875,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="3.280303"
-     inkscape:cx="1274.7362"
-     inkscape:cy="2218.6949"
+     inkscape:zoom="0.41003788"
+     inkscape:cx="1464.6054"
+     inkscape:cy="2514.4314"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -925,6 +925,14 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,3160.6299)">
+    <rect
+       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect21195"
+       width="1712.037"
+       height="431.66745"
+       x="-236.56352"
+       y="-1418.1412"
+       rx="2.4276242" />
     <g
        id="g18909"
        transform="matrix(1.0541956,0,0,1.0541956,263.59981,32.745337)">
@@ -2418,9 +2426,7 @@ Following the positive response from the genome sharing survey, we created a web
            width="2979.9211"
            height="4212.9922" /></flowRegion><flowPara
          style="font-size:42px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans"
-         id="flowPara17978">Between the start of openSNP on 27.09.2011 and 19.06.2015 3841 people have signed up for an account. In total 1984 genetic data sets have been uploaded by the users. Those users also have provided a total of 4743 entries on 360 different phenotypes, which range from hair- and eye-colour to political beliefs. Amongst other things, the data from openSNP have been used to research genomic privacy [9], teach students using real world data [10] and even to create art [11]. </flowPara><flowPara
-         style="font-size:42px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans"
-         id="flowPara7172" /><flowPara
+         id="flowPara7172">Between the start of openSNP on 27.09.2011 and 19.06.2015 3841 people have signed up for an account. In total 1984 genetic data sets have been uploaded by the users. Those users also have provided a total of 4743 entries on 360 different phenotypes, which range from hair- and eye-colour to political beliefs. Amongst other things, the data from openSNP have been used to research genomic privacy [9], teach students using real world data [10] and even to create art [11]. </flowPara><flowPara
          style="font-size:42px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:justify;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans"
          id="flowPara7188">The application can be found at https://opensnp.org and the code is released under MIT License at https://github.com/gedankenstuecke/snpr. All data uploaded is dedicated into the Public Domain using Creative Commons Zero.</flowPara></flowRoot>    <text
        xml:space="preserve"
